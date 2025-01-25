@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Twitter, Github } from "lucide-react"
+import { Twitter, Mail } from "lucide-react"
 
 export default function Footer() {
   return (
@@ -19,9 +19,9 @@ export default function Footer() {
               <Twitter className="h-5 w-5" />
               <span className="sr-only">Twitter</span>
             </Link>
-            <Link href="https://github.com/rocketryapp" className="text-gray-400 hover:text-white transition-colors">
-              <Github className="h-5 w-5" />
-              <span className="sr-only">GitHub</span>
+            <Link href="mailto:hello@rocketry.app" className="text-gray-400 hover:text-white transition-colors">
+              <Mail className="h-5 w-5" />
+              <span className="sr-only">Email</span>
             </Link>
           </div>
           <p className="text-sm text-gray-400">&copy; {new Date().getFullYear()} Rocketry. All rights reserved.</p>

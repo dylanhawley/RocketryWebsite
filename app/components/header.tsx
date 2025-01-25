@@ -10,14 +10,6 @@ export default function Header() {
           <Rocket className="h-6 w-6" />
           <span className="text-xl font-bold">Rocketry</span>
         </Link>
-        {/* <nav className="hidden md:flex space-x-8">
-          <Link href="#features" className="text-sm font-medium text-gray-300 hover:text-white transition-colors">
-            Features
-          </Link>
-          <Link href="#download" className="text-sm font-medium text-gray-300 hover:text-white transition-colors">
-            Download
-          </Link>
-        </nav> */}
       </div>
     </header>
   )
