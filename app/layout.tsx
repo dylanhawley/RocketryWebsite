@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Rocketry - Live Launch Tracker",
   description: "iOS app for tracking upcoming rocket launches, exploring mission details, and staying informed of missions with clear skies and great viewing conditions. Rocketry's mission is to maximize your in-person launch viewing opportunities.",
+  other: {
+    'apple-itunes-app': 'app-id=6738462173',
+  }
 };
 
 export default function RootLayout({
