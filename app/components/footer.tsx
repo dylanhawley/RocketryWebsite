@@ -19,7 +19,7 @@ export default function Footer() {
               <Twitter className="h-5 w-5" />
               <span className="sr-only">Twitter</span>
             </Link>
-            <Link href="mailto:hello@rocketry.app" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="mailto:dylanthomashawley@gmail.com" className="text-gray-400 hover:text-white transition-colors">
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </Link>

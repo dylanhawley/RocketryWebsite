@@ -59,15 +59,6 @@ export default function PrivacyPolicy() {
               <li>Opt-out of marketing communications</li>
             </ul>
           </section>
-
-          <section className="mb-12">
-            <h2 className="text-2xl font-semibold mb-4">6. Contact Us</h2>
-            <p className="text-gray-300">
-              If you have any questions about this Privacy Policy, please contact us at:
-              <br />
-              Email: privacy@rocketry.app
-            </p>
-          </section>
         </div>
       </div>
     </main>
