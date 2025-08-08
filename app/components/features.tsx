@@ -1,15 +1,10 @@
-import { Bell, Calendar, Search, Eye } from "lucide-react"
+import { Calendar, Search, Eye } from "lucide-react"
 
 const features = [
   {
     icon: <Calendar className="h-6 w-6" />,
     title: "Launch Calendar",
     description: "Comprehensive overview of upcoming rocket launches from all major space companies.",
-  },
-  {
-    icon: <Bell className="h-6 w-6" />,
-    title: "Launch Alerts",
-    description: "Get notified about upcoming launches and never miss an important space mission.",
   },
   {
     icon: <Search className="h-6 w-6" />,
