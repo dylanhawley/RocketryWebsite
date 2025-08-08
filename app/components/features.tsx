@@ -1,4 +1,4 @@
-import { Bell, Calendar, Search, Eye } from "lucide-react"
+import { Bookmark, Calendar, Search, Eye } from "lucide-react"
 
 const features = [
   {
@@ -7,9 +7,9 @@ const features = [
     description: "Comprehensive overview of upcoming rocket launches from all major space companies.",
   },
   {
-    icon: <Bell className="h-6 w-6" />,
-    title: "Launch Alerts",
-    description: "Get notified about upcoming launches and never miss an important space mission.",
+    icon: <Bookmark className="h-6 w-6" />,
+    title: "Watchlist",
+    description: "Save launches to your watchlist and track them easily.",
   },
   {
     icon: <Search className="h-6 w-6" />,

@@ -15,7 +15,6 @@ export default function PrivacyPolicy() {
               <li>Account information (email address, name)</li>
               <li>Device information and preferences</li>
               <li>Usage data and interaction with the app</li>
-              <li>Push notification preferences</li>
             </ul>
           </section>
 
@@ -24,7 +23,6 @@ export default function PrivacyPolicy() {
             <p className="text-gray-300 mb-4">We use the collected information for the following purposes:</p>
             <ul className="list-disc pl-6 text-gray-300 space-y-2">
               <li>Provide and maintain the Rocketry service</li>
-              <li>Send notifications about upcoming launches</li>
               <li>Improve and personalize your experience</li>
               <li>Analyze app usage and performance</li>
             </ul>
@@ -44,7 +42,6 @@ export default function PrivacyPolicy() {
             <ul className="list-disc pl-6 text-gray-300 space-y-2">
               <li>Process payments</li>
               <li>Analyze app usage</li>
-              <li>Send push notifications</li>
               <li>Provide customer support</li>
             </ul>
           </section>
