@@ -10,8 +10,7 @@ export default function Hero() {
             Your Personal Space Launch Assistant
           </h1>
           <p className="text-xl sm:text-2xl mb-8 text-gray-400">
-            Track every rocket launch, from SpaceX to Blue Origin. Get notified about upcoming missions and never miss a
-            launch again.
+            Track every rocket launch, from SpaceX to Blue Origin. Find launches with ideal viewing conditions.
           </p>
           <Link href="https://apps.apple.com/us/app/rocketry-live-launch-tracker/id6738462173" className="inline-block">
             <Image
